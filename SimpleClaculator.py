@@ -1,4 +1,5 @@
 class SimpleCalculator:
+    
     def __init__(self):
         self.num1 = 0
         self.num2 = 0
