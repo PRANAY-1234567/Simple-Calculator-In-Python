@@ -21,7 +21,6 @@ class SimpleCalculator:
             return "Error: Division by zero"
         return self.num1 / self.num2
 
-
 n1 = float(input("Enter first number: "))
 n2 = float(input("Enter second number: "))
 
